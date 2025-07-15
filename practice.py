@@ -3,3 +3,8 @@ def greet():
 
 greet()
 
+def goodbye():
+    print("Goodbye, Git!")
+
+greet()
+goodbye()
